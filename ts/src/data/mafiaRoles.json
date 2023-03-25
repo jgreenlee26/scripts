@@ -1,0 +1,68 @@
+{
+    "town": [{
+        "value": "Doctor",
+        "weight": 0.1
+    }, {
+        "value": "Tracker",
+        "weight": 0.1
+    }, {
+        "value": "Escort",
+        "weight": 0.1
+    }, {
+        "value": "Hunter",
+        "weight": 0.1
+    }, {
+        "value": "Forager",
+        "weight": 0.1
+    }, {
+        "value": "Martyr",
+        "weight": 0.1
+    }, {
+        "value": "Medium",
+        "weight": 0.1
+    }, {
+        "value": "Traitor",
+        "weight": 0.1
+    }, {
+        "value": "Priest",
+        "weight": 0.1
+    }, {
+        "value": "Bulletproof",
+        "weight": 0.1
+    }],
+    "thirdparty": [{
+        "value": "Crime Lord",
+        "weight": 0.13333333333333333
+    }, {
+        "value": "Hugger",
+        "weight": 0.13333333333333333
+    }, {
+        "value": "Businessman",
+        "weight": 0.13333333333333333
+    }, {
+        "value": "Survivor",
+        "weight": 0.13333333333333333
+    }, {
+        "value": "Cannibal 1",
+        "weight": 0.13333333333333333
+    }, {
+        "value": "Cannibal 2",
+        "weight": 0.13333333333333333
+    }],
+    "mafia": [{
+        "value": "Stalker",
+        "weight": 0.2
+    }, {
+        "value": "Mortician",
+        "weight": 0.2
+    }, {
+        "value": "Jekyll",
+        "weight": 0.2
+    }, {
+        "value": "Headhunter",
+        "weight": 0.2
+    }, {
+        "value": "Mafia JOAT",
+        "weight": 0.2
+    }]
+}
